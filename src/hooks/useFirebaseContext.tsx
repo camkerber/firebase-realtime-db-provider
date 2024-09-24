@@ -1,5 +1,5 @@
 import { createContext, useContext } from "react";
-import { DEFAULT_FIREBASE_CONTEXT } from "./constants";
+import { DEFAULT_FIREBASE_CONTEXT } from "../util";
 
 export const FirebaseContext = createContext(DEFAULT_FIREBASE_CONTEXT);
 
