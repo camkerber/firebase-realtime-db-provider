@@ -1,6 +1,6 @@
 # react-firebase-db
 
-The purpose of this package is to expedite the set up of Firebase Realtime Database for React projects. There are additional configuration options available that allow for anonymous authorization and app check through reCaptch Enterprise.
+The purpose of this package is to expedite the set up of Firebase Realtime Database for React projects. There are additional configuration options available that allow for anonymous authorization and app check through reCaptcha Enterprise.
 
 This documentation assumes you have already created a Firebase project and registered your app. You can find the documentation for these steps [here](https://firebase.google.com/docs/web/setup#create-firebase-project-and-app).
 

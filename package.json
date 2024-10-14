@@ -25,6 +25,11 @@
     "node": ">=14"
   },
   "module": "./dist/index.js",
+  "keywords": [
+    "react",
+    "firebase",
+    "provider"
+  ],
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
