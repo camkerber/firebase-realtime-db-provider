@@ -8,7 +8,7 @@
     "url": "git+https://github.com/camkerber/react-firebase-db.git"
   },
   "license": "MIT",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "exports": {
     ".": {
